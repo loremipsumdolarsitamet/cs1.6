@@ -1,6 +1,6 @@
 Ubuntu için kurulum
 
-'$ sudo apt-get install wine'
+`$ sudo apt-get install wine`
 
 Önce
 cs1.6_fullv7.exe 
