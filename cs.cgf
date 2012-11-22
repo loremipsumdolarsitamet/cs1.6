@@ -1,0 +1,6 @@
+hud_fastswitch 1
+fps_max 101
+hud_centerid 1
+cl_cmdrate 101
+cl_updaterate 101
+rate 30000
